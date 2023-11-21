@@ -8,7 +8,9 @@ Para colaborar en la actualización e implementación de documentación en este 
 
 A continuación se dará una serie de instrucción que ayudará a como comenzar a colaborar en este proyecto.
 
-Si los cambios son relativamente pequeños, se pueden hacer directamente desde la GUI de GitHub, es decir, editar los ficheros directamente aquí, y posteriormente solo hacer un commit que realizará un push automaticamente. Si este es el caso, leea sólo la sección '¡Manos a la Obra! ✍️' y 'Donde agregar imagenes u otros ficheros 💻'.
+### Cambios pequeños
+Si los cambios son relativamente pequeños, se pueden hacer directamente desde la GUI de GitHub, es decir, editar los ficheros directamente aquí, y posteriormente solo hacer un commit que realizará un push automaticamente entrando así en GitHub Actions. Si este es el caso, leea sólo la sección '¡Manos a la Obra! ✍️' y 'Donde agregar imagenes u otros ficheros 💻' como conocer como es la estructura.
+
 
 ### Requisitos Previos 🚀
 
